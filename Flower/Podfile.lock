@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Kingfisher (2.3.1)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.10)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - Kingfisher (~> 2.3.1)
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh (~> 3.1.10)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Kingfisher: 6d3fbada4829cbc7b89e883e8218c28afeb64e42
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: bb72948c985914b0b5cecac573a2c69a8915fb02
+
+COCOAPODS: 0.39.0
